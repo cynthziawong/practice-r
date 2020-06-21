@@ -1,6 +1,9 @@
 # Repository for R Projects
 
-File contains:
+This repository explores and documents the different charts and graphs that can be created in R. 
+
+
+## File Included:
 - R
 
 
