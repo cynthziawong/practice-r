@@ -6,3 +6,4 @@ File contains:
 
 ## R
 - **Map** creating a map of covid cases in the US
+- **Pie Cahrt** creating a pie chart of ...
