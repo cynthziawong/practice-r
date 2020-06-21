@@ -5,4 +5,4 @@ File contains:
 
 
 ## R
-- **Mapping** creating a map of covid cases in the US
+- **Map** creating a map of covid cases in the US
