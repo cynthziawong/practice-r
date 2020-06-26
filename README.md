@@ -7,17 +7,18 @@ This repository explores and documents the different charts and graphs that can 
 - R
 
 
-## R
+## Project Content
+
 **Map** creating a map of covid cases in the US
 
-#### Packages Used
+### Packages Used
 
-#### Generated Viz
+### Generated Viz
 
 
 
 **Pie Chart** creating a pie chart of ...
 
-#### Packages Used
+### Packages Used
 
-#### Generated Viz
+### Generated Viz
