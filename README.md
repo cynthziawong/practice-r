@@ -2,13 +2,11 @@
 
 This repository explores and documents the different charts and graphs that can be created in R. 
 
-
-## File Included:
-- R
-
 #### Project
 
 Mapping Covid cases in the US
+
+See ***mapping-covid.R*** in file ***R***
 
 #### Packages Used
 
@@ -21,9 +19,16 @@ Mapping Covid cases in the US
 > - install.packages("leaflet")
 > - install.packages("leaflet.extras")
 
+#### 
+
 #### Generated Viz
 
-**Pie Chart** creating a pie chart of ...
+
+
+
+#### Project
+
+Pie Chart creating a pie chart with R
 
 #### Packages Used
 
