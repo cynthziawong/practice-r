@@ -12,14 +12,14 @@ Mapping Covid cases in the US
 
 # Packages Used
 
-> install.packages("htmltools")
-> install.packages("maps")
-> install.packages("mapproj")
-> install.packages("mapdata")
-> install.packages("tidyverse")
-> install.packages("ggmap")
-> install.packages("leaflet")
-> install.packages("leaflet.extras")
+> - install.packages("htmltools")
+> - install.packages("maps")
+> - install.packages("mapproj")
+> - install.packages("mapdata")
+> - install.packages("tidyverse")
+> - install.packages("ggmap")
+> - install.packages("leaflet")
+> - install.packages("leaflet.extras")
 
 # Generated Viz
 
