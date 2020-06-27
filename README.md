@@ -6,14 +6,22 @@ This repository explores and documents the different charts and graphs that can 
 ## File Included:
 - R
 
+## Project
 
-## Project Content
+Mapping Covid cases in the US
 
-**Map** creating a map of covid cases in the US
+# Packages Used
 
-### Packages Used
+> install.packages("htmltools")
+> install.packages("maps")
+> install.packages("mapproj")
+> install.packages("mapdata")
+> install.packages("tidyverse")
+> install.packages("ggmap")
+> install.packages("leaflet")
+> install.packages("leaflet.extras")
 
-### Generated Viz
+# Generated Viz
 
 
 
