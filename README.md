@@ -6,11 +6,11 @@ This repository explores and documents the different charts and graphs that can 
 ## File Included:
 - R
 
-## Project
+#### Project
 
 Mapping Covid cases in the US
 
-# Packages Used
+#### Packages Used
 
 > - install.packages("htmltools")
 > - install.packages("maps")
@@ -21,12 +21,10 @@ Mapping Covid cases in the US
 > - install.packages("leaflet")
 > - install.packages("leaflet.extras")
 
-# Generated Viz
-
-
+#### Generated Viz
 
 **Pie Chart** creating a pie chart of ...
 
-### Packages Used
+#### Packages Used
 
-### Generated Viz
+#### Generated Viz
