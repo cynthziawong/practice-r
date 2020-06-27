@@ -1,12 +1,13 @@
 # Repository for R Projects
 
 This repository explores and documents the different charts and graphs that can be created in R. 
+The goal is to learn how to use different packages and explore the capabilties of R in powering analysis and visualizations.
 
 #### Project
 
 Mapping Covid cases in the US
 
-See ***mapping-covid.R*** in file ***R***
+See ***mapping-covid.R*** in the file labeled ***R***
 
 #### Packages Used
 
